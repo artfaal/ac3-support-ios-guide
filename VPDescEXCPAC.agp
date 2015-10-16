@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#GungSeo Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>#HeadLineA Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>#PCMyungjo Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>#PilGi Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>%Half Katakana Subst</key>
+	<dict>
+		<key>ｱ</key>
+		<string>VFr</string>
+		<key>ｲ</key>
+		<string>VFr</string>
+		<key>ｳ</key>
+		<string>VFr</string>
+		<key>ｴ</key>
+		<string>VFr</string>
+		<key>ｵ</key>
+		<string>VFr</string>
+		<key>ｶ</key>
+		<string>VFr</string>
+		<key>ｷ</key>
+		<string>VFr</string>
+		<key>ｸ</key>
+		<string>VFr</string>
+		<key>ｹ</key>
+		<string>VFr</string>
+		<key>ｺ</key>
+		<string>VFr</string>
+		<key>ｻ</key>
+		<string>VFr</string>
+		<key>ｼ</key>
+		<string>VFr</string>
+		<key>ｽ</key>
+		<string>VFr</string>
+		<key>ｾ</key>
+		<string>VFr</string>
+		<key>ｿ</key>
+		<string>VFr</string>
+		<key>ﾀ</key>
+		<string>VFr</string>
+		<key>ﾁ</key>
+		<string>VFr</string>
+		<key>ﾂ</key>
+		<string>VFr</string>
+		<key>ﾃ</key>
+		<string>VFr</string>
+		<key>ﾄ</key>
+		<string>VFr</string>
+		<key>ﾅ</key>
+		<string>VFr</string>
+		<key>ﾆ</key>
+		<string>VFr</string>
+		<key>ﾇ</key>
+		<string>VFr</string>
+		<key>ﾈ</key>
+		<string>VFr</string>
+		<key>ﾉ</key>
+		<string>VFr</string>
+		<key>ﾊ</key>
+		<string>VFr</string>
+		<key>ﾋ</key>
+		<string>VFr</string>
+		<key>ﾌ</key>
+		<string>VFr</string>
+		<key>ﾍ</key>
+		<string>VFr</string>
+		<key>ﾎ</key>
+		<string>VFr</string>
+		<key>ﾏ</key>
+		<string>VFr</string>
+		<key>ﾐ</key>
+		<string>VFr</string>
+		<key>ﾑ</key>
+		<string>VFr</string>
+		<key>ﾒ</key>
+		<string>VFr</string>
+		<key>ﾓ</key>
+		<string>VFr</string>
+		<key>ﾔ</key>
+		<string>VFr</string>
+		<key>ﾕ</key>
+		<string>VFr</string>
+		<key>ﾖ</key>
+		<string>VFr</string>
+		<key>ﾗ</key>
+		<string>VFr</string>
+		<key>ﾘ</key>
+		<string>VFr</string>
+		<key>ﾙ</key>
+		<string>VFr</string>
+		<key>ﾚ</key>
+		<string>VFr</string>
+		<key>ﾛ</key>
+		<string>VFr</string>
+		<key>ﾜ</key>
+		<string>VFr</string>
+		<key>ﾝ</key>
+		<string>VFr</string>
+	</dict>
+	<key>%Hiragino</key>
+	<dict>
+		<key>〈</key>
+		<string>VFr</string>
+		<key>〉</key>
+		<string>VFr</string>
+		<key>《</key>
+		<string>VFr</string>
+		<key>》</key>
+		<string>VFr</string>
+		<key>「</key>
+		<string>VFr</string>
+		<key>」</key>
+		<string>VFr</string>
+		<key>『</key>
+		<string>VFr</string>
+		<key>』</key>
+		<string>VFr</string>
+		<key>【</key>
+		<string>VFr</string>
+		<key>】</key>
+		<string>VFr</string>
+		<key>〒</key>
+		<string>VFr</string>
+		<key>〓</key>
+		<string>VFr</string>
+		<key>〔</key>
+		<string>VFr</string>
+		<key>〕</key>
+		<string>VFr</string>
+		<key>〖</key>
+		<string>VFr</string>
+		<key>〗</key>
+		<string>VFr</string>
+		<key>〘</key>
+		<string>VFr</string>
+		<key>〙</key>
+		<string>VFr</string>
+		<key>〚</key>
+		<string>vfr</string>
+		<key>〛</key>
+		<string>vfr</string>
+		<key>〜</key>
+		<string>VFr</string>
+		<key>〰</key>
+		<string>VFr</string>
+		<key>゠</key>
+		<string>VFr</string>
+		<key>ー</key>
+		<string>VFr</string>
+		<key>（</key>
+		<string>VFr</string>
+		<key>）</key>
+		<string>VFr</string>
+		<key>－</key>
+		<string>vFr</string>
+		<key>＜</key>
+		<string>VFr</string>
+		<key>＝</key>
+		<string>VFr</string>
+		<key>＞</key>
+		<string>VFr</string>
+		<key>［</key>
+		<string>VFr</string>
+		<key>］</key>
+		<string>VFr</string>
+		<key>＿</key>
+		<string>vFr</string>
+		<key>｛</key>
+		<string>VFr</string>
+		<key>｜</key>
+		<string>VFr</string>
+		<key>｝</key>
+		<string>VFr</string>
+		<key>～</key>
+		<string>VFr</string>
+		<key>｟</key>
+		<string>VFr</string>
+		<key>｠</key>
+		<string>VFr</string>
+		<key>｢</key>
+		<string>VFr</string>
+		<key>｣</key>
+		<string>VFr</string>
+		<key>･</key>
+		<string>VFr</string>
+	</dict>
+	<key>Apple LiGothic Medium</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>Apple LiSung Light</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>AppleGothic Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>AppleMyungjo Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>Arial Unicode MS</key>
+	<dict>
+		<key>ー</key>
+		<string>vfr</string>
+	</dict>
+	<key>Batang</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>BiauKai</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>DFPGyoSho-Lt</key>
+	<dict/>
+	<key>DFPKaiSho-Md</key>
+	<dict/>
+	<key>DFPKanTeiRyu-XB</key>
+	<dict/>
+	<key>DFPKyoKaSho-W3</key>
+	<dict/>
+	<key>DFPLeiSho-SB</key>
+	<dict/>
+	<key>DFPMaruGothic-SB</key>
+	<dict/>
+	<key>DFPSNGyoSho-W5</key>
+	<dict/>
+	<key>DFPSoKing-W3</key>
+	<dict/>
+	<key>GB18030 Bitmap</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>Gulim Regular</key>
+	<dict>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>Hei Regular</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>Hiragino Kaku Gothic Pro W3</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Kaku Gothic Pro W6</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Kaku Gothic ProN W3</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Kaku Gothic ProN W6</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Kaku Gothic Std W8</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Kaku Gothic StdN W8</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Maru Gothic Pro W4</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Maru Gothic ProN W4</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Mincho Pro W3</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Mincho Pro W6</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Mincho ProN W3</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Hiragino Mincho ProN W6</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Hiragino</string>
+		<key>Uses 1</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>Kai Regular</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+		<key>ー</key>
+		<string>VFr</string>
+	</dict>
+	<key>LiHei Pro</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>LiSong Pro</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>MS Gothic</key>
+	<dict>
+		<key>ー</key>
+		<string>vFr</string>
+	</dict>
+	<key>MS Mincho</key>
+	<dict>
+		<key>ー</key>
+		<string>vFr</string>
+	</dict>
+	<key>MS PGothic</key>
+	<dict>
+		<key>ー</key>
+		<string>vFr</string>
+	</dict>
+	<key>MS PMincho</key>
+	<dict>
+		<key>ー</key>
+		<string>vFr</string>
+	</dict>
+	<key>Meiryo</key>
+	<dict/>
+	<key>Meiryo Bold</key>
+	<dict>
+		<key>Uses</key>
+		<string>Meiryo</string>
+	</dict>
+	<key>Meiryo Bold Italic</key>
+	<dict>
+		<key>Uses</key>
+		<string>Meiryo</string>
+	</dict>
+	<key>Meiryo Italic</key>
+	<dict>
+		<key>Uses</key>
+		<string>Meiryo</string>
+	</dict>
+	<key>Osaka</key>
+	<dict>
+		<key>ー</key>
+		<string>vfr</string>
+	</dict>
+	<key>Osaka-Mono</key>
+	<dict>
+		<key>Uses</key>
+		<string>Osaka</string>
+	</dict>
+	<key>PMingLiU</key>
+	<dict/>
+	<key>STFangsong</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>STHeiti</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>STKaiti</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>STSong</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>STXihei</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>SimSun</key>
+	<dict>
+		<key>Uses</key>
+		<string>%Half Katakana Subst</string>
+	</dict>
+	<key>supengyu_st</key>
+	<integer>1049</integer>
+	<key>gejinghai_js</key>
+	<string>1222</string>
+	<key>za_liruiting</key>
+	<string>1027</string>
+	<key>jingchunming_gl</key>
+	<string>1235</string>
+	<key>qusiba_sb</key>
+	<string>8880</string>
+	<key>shasini</key>
+	<string>234578</string>
+</dict>
+</plist>
